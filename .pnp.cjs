@@ -38,6 +38,7 @@ const RAW_RUNTIME_STATE =
           ["@types/react-dom", "virtual:92f5643dc831a3f4802a3061679106b66f4c7463bb58d1e84759b3078cda5de8dcfc8e5f48ae06b11fdc13cb20fb07a554bf9f51fdf0ae116ba79bb618c02dac#npm:19.2.3"],\
           ["@vitejs/plugin-react", "virtual:92f5643dc831a3f4802a3061679106b66f4c7463bb58d1e84759b3078cda5de8dcfc8e5f48ae06b11fdc13cb20fb07a554bf9f51fdf0ae116ba79bb618c02dac#npm:6.0.2"],\
           ["babel-plugin-react-compiler", "npm:1.0.0"],\
+          ["class-variance-authority", "npm:0.7.1"],\
           ["eslint", "virtual:92f5643dc831a3f4802a3061679106b66f4c7463bb58d1e84759b3078cda5de8dcfc8e5f48ae06b11fdc13cb20fb07a554bf9f51fdf0ae116ba79bb618c02dac#npm:10.4.0"],\
           ["eslint-plugin-react-hooks", "virtual:92f5643dc831a3f4802a3061679106b66f4c7463bb58d1e84759b3078cda5de8dcfc8e5f48ae06b11fdc13cb20fb07a554bf9f51fdf0ae116ba79bb618c02dac#npm:7.1.1"],\
           ["eslint-plugin-react-refresh", "virtual:92f5643dc831a3f4802a3061679106b66f4c7463bb58d1e84759b3078cda5de8dcfc8e5f48ae06b11fdc13cb20fb07a554bf9f51fdf0ae116ba79bb618c02dac#npm:0.5.2"],\
@@ -1418,6 +1419,25 @@ const RAW_RUNTIME_STATE =
         "linkType": "HARD"\
       }]\
     ]],\
+    ["class-variance-authority", [\
+      ["npm:0.7.1", {\
+        "packageLocation": "../../../snap/code/241/.local/share/yarn/berry/cache/class-variance-authority-npm-0.7.1-74a7beaf7c-10c0.zip/node_modules/class-variance-authority/",\
+        "packageDependencies": [\
+          ["class-variance-authority", "npm:0.7.1"],\
+          ["clsx", "npm:2.1.1"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["clsx", [\
+      ["npm:2.1.1", {\
+        "packageLocation": "../../../snap/code/241/.local/share/yarn/berry/cache/clsx-npm-2.1.1-96125b98be-10c0.zip/node_modules/clsx/",\
+        "packageDependencies": [\
+          ["clsx", "npm:2.1.1"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
     ["convert-source-map", [\
       ["npm:2.0.0", {\
         "packageLocation": "../../../snap/code/241/.local/share/yarn/berry/cache/convert-source-map-npm-2.0.0-7ab664dc4e-10c0.zip/node_modules/convert-source-map/",\
@@ -1848,6 +1868,7 @@ const RAW_RUNTIME_STATE =
           ["@types/react-dom", "virtual:92f5643dc831a3f4802a3061679106b66f4c7463bb58d1e84759b3078cda5de8dcfc8e5f48ae06b11fdc13cb20fb07a554bf9f51fdf0ae116ba79bb618c02dac#npm:19.2.3"],\
           ["@vitejs/plugin-react", "virtual:92f5643dc831a3f4802a3061679106b66f4c7463bb58d1e84759b3078cda5de8dcfc8e5f48ae06b11fdc13cb20fb07a554bf9f51fdf0ae116ba79bb618c02dac#npm:6.0.2"],\
           ["babel-plugin-react-compiler", "npm:1.0.0"],\
+          ["class-variance-authority", "npm:0.7.1"],\
           ["eslint", "virtual:92f5643dc831a3f4802a3061679106b66f4c7463bb58d1e84759b3078cda5de8dcfc8e5f48ae06b11fdc13cb20fb07a554bf9f51fdf0ae116ba79bb618c02dac#npm:10.4.0"],\
           ["eslint-plugin-react-hooks", "virtual:92f5643dc831a3f4802a3061679106b66f4c7463bb58d1e84759b3078cda5de8dcfc8e5f48ae06b11fdc13cb20fb07a554bf9f51fdf0ae116ba79bb618c02dac#npm:7.1.1"],\
           ["eslint-plugin-react-refresh", "virtual:92f5643dc831a3f4802a3061679106b66f4c7463bb58d1e84759b3078cda5de8dcfc8e5f48ae06b11fdc13cb20fb07a554bf9f51fdf0ae116ba79bb618c02dac#npm:0.5.2"],\
