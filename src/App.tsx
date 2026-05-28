@@ -6,6 +6,7 @@ import PlusIcon from "./assets/icons/plus.svg?react";
 import PencilIcon from "./assets/icons/pencil.svg?react";
 import XIcon from "./assets/icons/x.svg?react";
 import Icon from "./components/icon";
+import Badge from "./components/badge";
 
 
 export default function App() {
@@ -36,6 +37,10 @@ export default function App() {
         
       </div>
 
+      <div>
+        <Badge variant="secondary">5</Badge> 
+        <Badge variant="primary">10 de 20</Badge>
+      </div>
     </div>
   )
 }
