@@ -3,7 +3,19 @@ import Text from "./components/text";
 export default function App() {
 
   return (
-    <Text className="text-pink-dark text-3xl">Olá , mundo!</Text>
+    <div className="flex flex-col gap-2">
+      <Text variant="bold-sm-bold" className="text-pink-base">
+        Olá, mundo!
+      </Text>
+
+      <Text variant="bold-sm-bold" className="text-green-base">
+        Olá, mundo!
+      </Text>
+
+      <Text variant="bold-md-bold">
+        Olá, mundo!
+      </Text>
+    </div>
   )
 }
 
